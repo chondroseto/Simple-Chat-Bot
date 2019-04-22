@@ -1,4 +1,4 @@
-# Natural Language Toolkit : Rizky
+# Natural Language Toolkit 
 from nltk_lite.chat import Chat, reflections
 
 pairs = (
